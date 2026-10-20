@@ -1,5 +1,7 @@
 # Playwright Lab 🎭
 
+![Playwright Tests](https://github.com/jonahtanV-QA/playwright-lab/actions/workflows/playwright.yml/badge.svg)
+
 End-to-end test automation framework built with **Playwright + TypeScript**, using the **Page Object Model** pattern.
 
 ## What's covered
